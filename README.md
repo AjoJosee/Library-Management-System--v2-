@@ -1,3 +1,5 @@
+
+Remove folder resources which contains styles.css
 Library Management system, UI by Swing
 
 How to use?
