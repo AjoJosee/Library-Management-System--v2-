@@ -1,5 +1,5 @@
 # IDE metadata
-.idea/
+/.idea/
 *.iml
 
 # Build output
