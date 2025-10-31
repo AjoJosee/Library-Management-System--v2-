@@ -1,3 +1,6 @@
+
+Remove folder resources which contains styles.css and pom.xml
+
 Library Management system, UI by Swing
 
 How to use?
