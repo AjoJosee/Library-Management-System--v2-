@@ -1,9 +1,0 @@
-/* Basic styling for the application */
-.root {
-    -fx-font-family: "Arial";
-}
-
-.button {
-    -fx-font-weight: bold;
-    -fx-cursor: hand;
-}
